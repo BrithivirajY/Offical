@@ -1,0 +1,50 @@
+.purchase_container{
+    margin-bottom: 50px;
+}
+
+
+
+  .purchase_delete{
+    background-color: rgb(231, 120, 108);
+    border-radius: 5px;
+    cursor: pointer;
+    color: white;
+    font-weight: 600;
+  }
+  .purchase_update:hover{
+    background-color: rgb(34, 34, 142);
+  }
+  .purchase_delete:hover{
+    background-color: rgb(129, 6, 6);
+  }
+  .purchase_create{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .purchase_create button{
+    padding: 15px;
+    background-color: #93f9d7;
+    margin-top: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+    font-weight: 600;
+    color: rgb(77, 71, 71);
+   
+   }
+   .purchase_create input{
+    display: flex;
+    flex-direction: column;
+    padding: 15px;
+    width: 400px;
+    align-items: start;
+    border: 10px;
+    background-color: rgb(198, 208, 208);
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+    font-size: 20px;
+   } 
+
+   .purchase_create button:hover{
+    background-color: #a2d2c3;;
+  }

@@ -1,0 +1,122 @@
+/* body{
+  background-color: aliceblue;
+}
+.main-container{
+  padding: 20px;
+  width: 95vw;
+  height: 95vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+}
+.main-container h3{
+  color: brown;
+  font-weight: 700;
+  font-size: 25px;
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+}
+
+.main-container table, th, td {
+  border: 1px solid rgb(154, 145, 145);
+  border-collapse: collapse;
+  padding:10px;
+  text-align: center;
+
+}
+
+.main-container table{
+  border: 2px solid black;
+  border-radius: 5px;
+}
+
+.main-container button{
+  border: none;
+  padding: 10px;
+
+
+}
+.updatebtn{
+  background-color: rgb(102, 102, 180);
+  border-radius: 5px;
+  cursor: pointer;
+  color: white;
+  font-weight: 600;
+}
+
+.deletebtn{
+  background-color: rgb(222, 43, 24);
+  border-radius: 5px;
+  cursor: pointer;
+  color: white;
+  font-weight: 600;
+}
+
+.updatebtn:hover{
+  background-color: rgb(34, 34, 142);
+}
+.deletebtn:hover{
+  background-color: rgb(129, 6, 6);
+}
+
+.ADDbtn button{
+ padding: 15px;
+ background-color: #7fffd4;
+ margin-top: 10px;
+ border-radius: 10px;
+ cursor: pointer;
+ font-weight: 600;
+ color: rgb(77, 71, 71);
+
+}
+
+.ADDbtn button:hover{
+  background-color: #b8d7cd;;
+}
+
+.addform input,
+.EDITUSER input {
+  display: flex;
+  flex-direction: column;
+  padding: 15px;
+  width: 400px;
+  align-items: start;
+  border: 10px;
+  background-color: rgb(198, 208, 208);
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: 700;
+  font-size: 20px;
+  
+}
+
+.addform button ,.EDITUSER button{
+  padding: 15px 50px;
+  margin-top: 10px;
+  border-radius: 7px;
+  background-color: aquamarine;
+  cursor: pointer;
+  font-weight: 600;
+  color: rgb(77, 71, 71);
+ 
+}
+.addform button:hover{
+  background-color: #b8d7cd;;
+}
+
+.PurchaseOrder{
+  background-color: rgb(53, 150, 121);
+  border-radius: 5px;
+  cursor: pointer;
+  color: white;
+  font-weight: 600;
+}
+
+.PurchaseOrder:hover{
+  background-color: rgb(32, 90, 73);
+}
+
+.table-ventor th{
+  background-color: #b8d7cd;
+
+} */
